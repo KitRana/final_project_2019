@@ -1,11 +1,13 @@
-# NYCity Watch
-## A site about NYC public safety
+# NYCity Watch 
+#### A site about NYC public safety  
+See it here https://nycw.herokuapp.com
 
 ## About Us
 This project was developed as a class project for the May 2019 Data Science program at Rutgers University. The group consisted of three members listed below.
 
-Ankit Rana
-Charlie Blasi
+Ankit Rana    
+Charlie Blasi  
+Anonymous
 
 ## The Project
 Our goal for this project was to look at various factors of public safety within New York City. We wanted to gather as much data as we could find from publicly available sources including Datasets, API's, and Websites.
