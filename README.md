@@ -1,6 +1,14 @@
 # NYCity Watch 
-#### A site about NYC public safety  
-See it here https://nycw.herokuapp.com
+#### A site about NYC public safety
+See it here https://nycw.herokuapp.com  
+  
+Note: The site is still a work in progress.  Future updates will include:
+* Updates to responsiveness
+* Enhanced map buttons and navigation
+* Updates to news scraping to include real time images
+* Community forum section
+* Chat function
+* And more
 
 ## About Us
 This project was developed as a class project for the May 2019 Data Science program at Rutgers University. The group consisted of three members listed below.
