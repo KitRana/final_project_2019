@@ -1,3 +1,7 @@
+# ATTENTION: REPO HAS MOVED
+New Repo: https://github.com/KitRana/nycw_heroku
+
+
 # NYCity Watch 
 #### A site about NYC public safety
 See it here https://nycw.herokuapp.com  
